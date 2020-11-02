@@ -1,0 +1,10 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Softwares\\UCanAccess-5.0.0-bin\\UCanAccess-5.0.0-bin\\ucanaccess-5.0.0.jar",
+        "c:\\Softwares\\UCanAccess-5.0.0-bin\\UCanAccess-5.0.0-bin\\lib\\commons-lang3-3.8.1.jar",
+        "c:\\Softwares\\UCanAccess-5.0.0-bin\\UCanAccess-5.0.0-bin\\lib\\commons-logging-1.2.jar",
+        "c:\\Softwares\\UCanAccess-5.0.0-bin\\UCanAccess-5.0.0-bin\\lib\\hsqldb-2.5.0.jar",
+        "c:\\Softwares\\UCanAccess-5.0.0-bin\\UCanAccess-5.0.0-bin\\lib\\jackcess-3.0.1.jar"
+    ]
+}
